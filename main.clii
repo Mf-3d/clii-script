@@ -1,0 +1,7 @@
+text = "Clii for NodeはNode.js向けのCliiです。";
+print(text);
+//a = readfile("./main.clii");
+//print(a);
+run_clii("./module.clii");
+run_js("./math.js");
+//テスト
