@@ -13,5 +13,5 @@ node module 保存した.clii
 簡単。
 
 ## ブランチ
-メインブランチ: [https://github.com/Mf-3d/clii-script](https://github.com/Mf-3d/clii-script)
-LINE BOT用CliiScriptのブランチ: [https://github.com/Mf-3d/clii-script](https://github.com/Mf-3d/clii-script)
+メインブランチ: [https://github.com/Mf-3d/clii-script/tree/main](https://github.com/Mf-3d/clii-script/tree/main)
+LINE BOT用CliiScriptのブランチ: [https://github.com/Mf-3d/clii-script/tree/line](https://github.com/Mf-3d/clii-script/tree/line)
