@@ -1,3 +1,0 @@
-text = "Clii for NodeはNode.js向けのCliiです。";
-print(text);
-//テスト
